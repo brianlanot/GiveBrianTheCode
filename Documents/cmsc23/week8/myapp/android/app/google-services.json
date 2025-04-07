@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479565449513",
+    "project_id": "week8-sample-lilyn27",
+    "storage_bucket": "week8-sample-lilyn27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479565449513:android:bc318b9792d70a6d360f38",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7t_7mfTt3yluFtI2wrH_LoIE0UPFU0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
